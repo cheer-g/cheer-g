@@ -7,6 +7,7 @@ I'm Sreerag. I love programming :raised_hands:
 📫 How to reach me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/cheerG__)
+[![Follow on Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/cheerG)
 
 ---
 
