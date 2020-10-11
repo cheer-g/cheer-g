@@ -14,7 +14,7 @@ I'm Sreerag. I love programming :raised_hands:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cheer-g/cheer-g.github.io/pull/1) in [cheer-g/cheer-g.github.io](https://github.com/cheer-g/cheer-g.github.io)
-2. 🎉 Merged PR [#3](https://github.com/cheer-g/SentAPI/pull/3) in [cheer-g/SentAPI](https://github.com/cheer-g/SentAPI)
-3. 🎉 Merged PR [#1](https://github.com/cheer-g/sentapiml/pull/1) in [cheer-g/sentapiml](https://github.com/cheer-g/sentapiml)
+1. ❗️ Opened issue [#5](https://github.com/cheer-g/SentAPI/issues/5) in [cheer-g/SentAPI](https://github.com/cheer-g/SentAPI)
+2. ❗️ Closed issue [#4](https://github.com/cheer-g/SentAPI/issues/4) in [cheer-g/SentAPI](https://github.com/cheer-g/SentAPI)
+3. ❗️ Opened issue [#4](https://github.com/cheer-g/SentAPI/issues/4) in [cheer-g/SentAPI](https://github.com/cheer-g/SentAPI)
 <!--END_SECTION:activity-->
