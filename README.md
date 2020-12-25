@@ -2,7 +2,7 @@
 
 I'm Sreerag. I love programming :raised_hands: 
 
-🔭 I’m currently leraning the Laravel framework
+🔭 I’m currently working as a Python/Odoo Developer trainee
 
 📫 How to reach me:
 
